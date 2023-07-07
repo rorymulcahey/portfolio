@@ -1,4 +1,4 @@
 # portfolio
-Work product of the website founder
+Static wordpress page example
 
 homepage: https://rorymulcahey.github.io/portfolio/
